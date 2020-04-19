@@ -1,0 +1,17 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background-image: url('./background.jpg');
+  background-size: cover;
+}
+
+#falling-snow-canvas {
+  /* inline item will cause the bottom space unless setting vertical-align to top */
+  display: block;
+  width: 100%;
+  height: 100%;
+}

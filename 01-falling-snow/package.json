@@ -1,0 +1,9 @@
+{
+  "name": "01-falling-snow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx browser-sync -w"
+  }
+}
