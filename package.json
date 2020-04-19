@@ -1,0 +1,11 @@
+{
+  "name": "JavaScript-21-Days-Challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:WiNloSt/JavaScript-21-Days-Challenge.git",
+  "author": "Mahatthana Nomsawadi <mahatthana.n@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "bash scripts/build.bash"
+  }
+}
