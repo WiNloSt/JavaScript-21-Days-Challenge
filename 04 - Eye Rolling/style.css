@@ -8,7 +8,7 @@ body {
 }
 
 .face {
-  background: #FCD871;
+  background: #fcd871;
   border-radius: 50%;
   height: 300px;
   width: 300px;
@@ -52,12 +52,9 @@ body {
 
   height: 50px;
   position: absolute;
-  bottom: 0;
-  right: 25px;
+  transform: translate(var(--transform-x, 25px), var(--transform-y, 25px));
   width: 50px;
 }
-
-
 
 .mouth {
   width: 150px;

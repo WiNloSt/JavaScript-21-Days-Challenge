@@ -1,0 +1,10 @@
+{
+  "name": "04-eyes-rolling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "npx browser-sync -w"
+  }
+}
